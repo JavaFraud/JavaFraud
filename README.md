@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JavaFraud
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me Java
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning Symfony
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me: here
 
 <!---
 JavaFraud/JavaFraud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
