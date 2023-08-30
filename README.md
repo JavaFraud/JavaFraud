@@ -1,14 +1,25 @@
-Hi, I'm JavaFraud_
-
-Junior Web Developper.
-
-My main frameworks are Symfony and Angular.
-
-I have interests in cybersecurity and design pattern.
-
-I served 5 years in the army as a sergent with electronician specialty.
-
-Coding is my hobby, I find it relaxing and it reallt helps me reach my flow. I don't even play videogames anymore.
+             ________________________________________________
+            /                                                \
+           |    _________________________________________     |
+           |   |                                         |    |
+           |   |  C:\> Hello I'm JAVAFRAUD_              |    |
+           |   |       I'm 25 years old.                 |    |
+           |   |       I've spent 5 years in the army    |    |
+           |   |       I learned web dev at ENI school   |    |
+           |   |                                         |    |
+           |   |       I looking forward to do lots of   |    |
+           |   |       coding in the future and improve  |    |
+           |   |       my skills and knowledge.          |    |
+           |   |_________________________________________|    |
+           |                                                  |
+            \_________________________________________________/
+                   \___________________________________/
+                ___________________________________________
+             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+        _-'.-.-. .---.-. .-------------------------. .---.-.-.-.`-_
+      :-------------------------------------------------------------:
+      `---._.-------------------------------------------------._.---'
 
 <!---
 JavaFraud/JavaFraud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
