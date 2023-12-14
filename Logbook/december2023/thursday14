@@ -1,0 +1,5 @@
+Didn't commit to the log book yesterday.
+What I mostly did was refactor the CTF tool a bit more and finally get to work with that Youtube API.
+I works quite well but it was stange to process the output. Formating from json to dict, to get the urls etc.
+In the end I'm able to get some nice thing working out.
+So today, I might have to finish the ownload mp3 part and manage to group all this. Let's go !
