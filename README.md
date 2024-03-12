@@ -4,8 +4,9 @@
 Currently working on a 3D game to play on web browser !
 
 Beginner Blender modeler ~
+(./dance.gif)
 
-I like Pyton and Javascript. 
+I like Pyton, Javascript and PHP. 
 
 I run Linux Fedora 39 and I love it :>
 
