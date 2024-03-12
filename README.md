@@ -1,2 +1,2 @@
 ![Header](./banner.png)
-__Welcome to my GitHub profile ! ~ __
+Welcome to my GitHub profile ! ~
