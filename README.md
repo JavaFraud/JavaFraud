@@ -1,14 +1,10 @@
 ![Header](./banner.png)
 ~ Welcome to my GitHub profile ! ~
 
-Currently working on a 3D game to play on web browser !
+Currently learning Rust !
 
-Beginner Blender modeler ~
+Web Developper
+Beginner Blender modeler 
+I run Linux Fedora 39
 
-![alt text](./dance.gif)
-
-I like Pyton, Javascript and PHP. 
-
-I run Linux Fedora 39 and I love it :>
-
-Don't worry, it will be available in english someday <3
+![alt text](./dance.gif) 
